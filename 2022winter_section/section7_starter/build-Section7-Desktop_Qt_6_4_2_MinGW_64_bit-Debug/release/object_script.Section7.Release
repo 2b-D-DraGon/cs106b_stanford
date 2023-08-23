@@ -1,0 +1,14 @@
+release/concat.o
+release/dummyNodes.o
+release/insertBefore.o
+release/main.o
+release/mechanics.o
+release/myDeque.o
+release/quickSort.o
+release/readList.o
+release/reverse.o
+release/utility.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

@@ -1,0 +1,15 @@
+debug/equal.o
+debug/free.o
+debug/height.o
+debug/isBST.o
+debug/main.o
+debug/numBSTs.o
+debug/ost.o
+debug/remove.o
+debug/ultimate.o
+debug/utility.o
+debug/walking.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o

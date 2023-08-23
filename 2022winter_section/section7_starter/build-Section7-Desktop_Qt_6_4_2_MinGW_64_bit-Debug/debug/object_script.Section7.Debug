@@ -1,0 +1,14 @@
+debug/concat.o
+debug/dummyNodes.o
+debug/insertBefore.o
+debug/main.o
+debug/mechanics.o
+debug/myDeque.o
+debug/quickSort.o
+debug/readList.o
+debug/reverse.o
+debug/utility.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o

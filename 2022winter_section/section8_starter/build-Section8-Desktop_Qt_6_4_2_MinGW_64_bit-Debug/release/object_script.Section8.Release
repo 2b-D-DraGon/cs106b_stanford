@@ -1,0 +1,15 @@
+release/equal.o
+release/free.o
+release/height.o
+release/isBST.o
+release/main.o
+release/numBSTs.o
+release/ost.o
+release/remove.o
+release/ultimate.o
+release/utility.o
+release/walking.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o
